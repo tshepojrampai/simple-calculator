@@ -1,5 +1,5 @@
 #unit test for calculator functions
-import simple-calculator as calculator
+import simple_calculator as calculator
 
 
 #Addition test
